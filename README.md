@@ -2,6 +2,8 @@
 
 # Web3 Security Tools Hub
 
+Chain.Love is an open-source directory for comparing RPC providers, indexers, explorers, bridges, wallets and other Web3 services across networks: https://chain.love/
+
 A curated list of AI tools for smart-contract security. Built and maintained by [pashov.com](https://pashov.com).
 
 **How to choose:**
